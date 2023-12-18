@@ -9,7 +9,7 @@ In this repository you'll be able to find two directories.
     This excel sheet had to have all the students/teachers names, id's(RA), emails and the links for the research. 
     I addition to that I included the classes keys and names, that are present in the link and that what makes the research possible.
 
-2 - data_analyses
+2 - tramento_dados
     
     The data analises repository is under contruction...
 
