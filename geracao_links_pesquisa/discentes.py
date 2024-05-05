@@ -5,7 +5,10 @@ import difflib
 linkBase = ''
 
 # LENDO O XLSX DOS DISCENTES RECEBIDO DO DBA
-df = pd.DataFrame(pd.read_excel('.xlsx'))
+df = pd.DataFrame(pd.read_excel('C:/Users/clini/Documents/CPA/avaliacaoDisciplinas/2024.1/CPA_GRD241_02052024.xlsx'))
+
+print(df.unique())
+
 
 # LISTAS E VARIAVEIS AUXILIARES
 listaRAaux = []
