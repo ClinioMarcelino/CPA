@@ -49,7 +49,7 @@ print(df)
 
 
 def gerarLinkProfessores(dt1):
-    linky='wwwwwww//'
+    linky=''
 
     for i in range(1,int((len(dt1.keys())-2))):
         linky += f'nd{i}={dt1[f"ND{i}"]}&'
